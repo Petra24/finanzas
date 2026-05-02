@@ -30,11 +30,11 @@ financiero con herramientas tecnológicas y manejo de datos.
 | 06 | [ChilaKing — Finanzas Corporativas](./06-ChilaKing-Finanzas-Corporativas/) | Finanzas Corporativas | Sep-Dic 2025 |
 | 07 | [Análisis Financiero — Negocio Local](./07-Analisis-Financiero-Negocio-Local/) | Estancia II | Sep-Dic 2025 |
 | 08 | [EcoVida — Plan Integral de Negocios](./08-EcoVida-Plan-de-Negocios/) | Plan Integral de Negocios | Ene-Abr 2026 |
-| 09 | [Kit biodegradable — Estudio de Mercado](./09-Kit-biodegradable-Estudio-Mercado/) | Estudio de mercados | Ene-Abbr 2026 |
+| 09 | [Kit biodegradable — Estudio de Mercado](./09-Kit-biodegradable-Estudio-Mercado/) | Estudio de mercados | Ene-Abr 2026 |
 | 10 | [Análisis estratégico — Xcaret Park](./10-Analisis-estratégico-Xcaret-Park/) | Desarrollo sustentable y medio ambiente | Ene-Abr 2026 |
 | 11 | [FUNO11 — Administración de Riesgos](./11-FUNO11-Administracion-Riesgos/) | Administración de Riesgos | Ene-Abr 2026 |
 
-> 🚧 Repositorio en construcción — se irán agregando proyectos conforme avance el semestre.
+> 🚧 Repositorio en construcción — se irán agregando proyectos conforme avance el cuatrimestre.
 
 ---
 
