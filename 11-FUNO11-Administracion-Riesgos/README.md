@@ -1,7 +1,7 @@
 # FUNO11 — Análisis Financiero y Administración de Riesgos
 
 **Área:** Administración de Riesgos  
-**Periodo:** Enero – Marzo 2026  
+**Periodo:** Enero – Abril 2026  
 **Herramientas:** Python · Excel · Matplotlib  
 **Datos:** BMV · Banxico · GBM
 
