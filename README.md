@@ -1,7 +1,7 @@
 # Portafolio Académico — Ingeniería Financiera
 **Nayelli Romero López**  
-Ingeniería Financiera | 8vo Semestre  
-Universidad Politécnica de Tulancingo | 2026  
+Ingeniería Financiera | 9no Cuatrimestre  
+Universidad Politécnica de Tulancingo | 2023 - 2026  
 🔗 LinkedIn: linkedin.com/in/nayelliromero
 
 ---
