@@ -32,9 +32,7 @@ financiero con herramientas tecnológicas y manejo de datos.
 | 08 | [EcoVida — Plan Integral de Negocios](./08-EcoVida-Plan-de-Negocios/) | Plan Integral de Negocios | Ene-Abr 2026 |
 | 09 | [Kit biodegradable — Estudio de Mercado](./09-Kit-biodegradable-Estudio-Mercado/) | Estudio de mercados | Ene-Abbr 2026 |
 | 10 | [Análisis estratégico — Xcarett Park](./10-Analisis-estratégico-Xcaret-Park/) | Desarrollo sustentable y medio ambiente | Ene-Abr 2026 |
-| 11 | [FUNO11 — Administración de Riesgos](./11-FUNO11-Administracion-Riesgos/) | Administración de Riesgos | 2026 |
-
-
+| 11 | [FUNO11 — Administración de Riesgos](./11-FUNO11-Administracion-Riesgos/) | Administración de Riesgos | Ene-Abr 2026 |
 
 > 🚧 Repositorio en construcción — se irán agregando proyectos conforme avance el semestre.
 
