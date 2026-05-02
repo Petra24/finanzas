@@ -22,11 +22,18 @@ financiero con herramientas tecnológicas y manejo de datos.
 
 | # | Proyecto | Área | Año |
 |---|----------|------|-----|
-| 01 | [EcoVida — Plan Integral de Negocios](./01-EcoVida-Plan-de-Negocios/) | Emprendimiento y Finanzas | 2026 |
-| 02 | [Círculo Verde — Análisis de Costos](./02-Circulo-Verde-Analisis-Costos/) | Contabilidad de Costos | 2023 |
-| 03 | [Análisis Financiero — Negocio Local](./03-Analisis-Financiero-Negocio-Local/) | Análisis Financiero | 2025 |
-| 04 | [Consultoría de Proyectos de Inversión](./04-Consultoria-Proyectos-Inversion/) | Evaluación de Proyectos | 2024 |
-| 05 | [ChilaKing — Finanzas Corporativas](./05-ChilaKing-Finanzas-Corporativas/) | Finanzas Corporativas | 2025 |
+| 01 | [Consultoría de Proyectos de Inversión](./01-Consultoria-Proyectos-Inversion/) | Estancia I | Sep-Dic 2024 |
+| 02 | [Círculo Verde — Análisis de Costos](./02-Circulo-Verde-Analisis-Costos/) | Contabilidad de Costos | Sep-Dic 2024 |
+| 03 | [Circulo Verde — Reclutamiento y selección de personal](./03-Circulo-Verde-Reclutamiento-selección-personal/) | Desarrollo de Talento Humano | Ene-Abr 2025 |
+| 04 | [EvilDriver — Sociedad Mercantil](./04-EvilDriver-Sociedad-Mercantil/) | Contabilidad de Sociedades Mercantiles | May-Ago 2025 |
+| 05 | [Alineació Curricular Vs Mercado Laboral](./05-Alineación-Curricular-vs.-Mercado-Laboral/) | Metodología de la Investigación | May-Ago 2025 |
+| 06 | [ChilaKing — Finanzas Corporativas](./06-ChilaKing-Finanzas-Corporativas/) | Finanzas Corporativas | Sep-Dic 2025 |
+| 07 | [Análisis Financiero — Negocio Local](./07-Analisis-Financiero-Negocio-Local/) | Estancia II | Sep-Dic 2025 |
+| 08 | [EcoVida — Plan Integral de Negocios](./08-EcoVida-Plan-de-Negocios/) | Plan Integral de Negocios | Ene-Abr 2026 |
+| 09 | [Kit biodegradable — Estudio de Mercado](./09-Kit-biodegradable-Estudio-Mercado/) | Estudio de mercados | Ene-Abbr 2026 |
+| 10 | [Análisis estratégico — Xcarett Park](./10-Analisis-estratégico-Xcaret-Park/) | Desarrollo sustentable y medio ambiente | Ene-Abr 2026 |
+
+
 
 > 🚧 Repositorio en construcción — se irán agregando proyectos conforme avance el semestre.
 

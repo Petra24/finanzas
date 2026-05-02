@@ -1,5 +1,5 @@
 # ChilaKing — Finanzas Corporativas
-**Año:** 2025  
+**Año:** Sep-Dic 2025  
 **Materia:** Finanzas Corporativas  
 **Institución:** Universidad Politécnica de Tulancingo
 
@@ -29,3 +29,10 @@ flujo de efectivo, estados financieros y análisis de rentabilidad.
 - Control financiero y análisis de rentabilidad por periodo
 - Crecimiento sostenido de utilidades a lo largo de 5 años
 - Determinación del nivel mínimo de ventas necesarias
+
+## Habilidades demostradas
+- Análisis financiero corporativo
+- Elaboración de estados financieros completos
+- Aplicación de razones financieras
+- Proyección y modelación financiera a 5 años
+- Evaluación de viabilidad y sostenibilidad del negocio

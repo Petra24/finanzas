@@ -1,6 +1,6 @@
 # Análisis Financiero — Decoración de Interiores Romero y Oliva
-**Año:** 2025  
-**Materia:** Análisis Financiero  
+**Año:** Sep- Dic 2025  
+**Materia:** Estancia II 
 **Institución:** Universidad Politécnica de Tulancingo
 
 ## Descripción
@@ -28,3 +28,10 @@ real y proponer mejoras en la gestión de sus recursos.
 - Identificación de la situación financiera real del negocio
 - Propuesta de estrategias para mejorar rentabilidad y control financiero
 - Estimación del desempeño futuro del negocio
+
+## Habilidades demostradas
+- Diagnóstico financiero de negocios
+- Elaboración e interpretación de flujo de efectivo
+- Aplicación de indicadores financieros
+- Proyección financiera a corto plazo
+- Generación de recomendaciones estratégicas

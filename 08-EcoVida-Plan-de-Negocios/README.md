@@ -1,5 +1,5 @@
 # EcoVida S.A. de C.V. — Plan Integral de Negocios
-**Año:** 2026  
+**Año:** Ene-Abr 2026  
 **Materia:** Plan Integral de Negocios  
 **Institución:** Universidad Politécnica de Tulancingo
 
@@ -30,3 +30,10 @@ con base en la metodología de Alcaraz Rodríguez (2020).
 - Punto de equilibrio en 489 kits/mes (68% de la capacidad instalada)
 - Utilidad neta de $26,062.20 desde el primer mes de operación
 - Recuperación de inversión estimada en menos de 5 meses
+
+## Habilidades demostradas
+- Formulación y evaluación de planes de negocios
+- Investigación de mercado con análisis estadístico
+- Modelación financiera y proyecciones
+- Fijación de precios y análisis de costos
+- Pensamiento estratégico y toma de decisiones

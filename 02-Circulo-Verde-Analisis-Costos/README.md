@@ -1,5 +1,5 @@
 # Círculo Verde S.A. de C.V. — Análisis de Costos
-**Año:** 2023  
+**Año:** Sep-Dic 2024  
 **Materia:** Contabilidad de Costos  
 **Institución:** Universidad Politécnica de Tulancingo
 
