@@ -37,19 +37,19 @@ financiero con herramientas tecnológicas y manejo de datos.
 **Datos:**  
 Excel · Power BI · Python ·  SQL · Tableu
 
-**Finanzas:** 
+**Finanzas:**  
 Análisis financiero · Razones financieras · VaR ·  TIR · Flujo de efectivo · Proyección financiera  
 
-**Desarrollo:**
+**Desarrollo:**  
 Angular · PL/SQL · Oracle Forms · HTML · JavaScript
 
-**Sistemas:**
+**Sistemas:**    
 ERP · Office 365 · Gestión de servidores ·  Respaldos  ·  IBM SPSS  ·  Atlas Ti
 
-**Metodologías:**
+**Metodologías:**   
 Scrum · Kanban · Documentación técnica 
 
-**Herramientas:**
+**Herramientas:**   
 Teams · Slack · Notion ·  Google Workspace 
 
 ---
