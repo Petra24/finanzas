@@ -1,56 +1,80 @@
-# FUNO11 — Análisis Financiero y Administración de Riesgos
-**Año:** Ene-Abr 2026  
-**Materia:** Administración de Riesgos II
-**Institución:** Universidad Politécnica de Tulancingo
+# 📊 FUNO11 — Análisis Financiero y Administración de Riesgos
 
-## Descripción
-Análisis financiero cuantitativo del instrumento FUNO11 (Fibra Uno), 
-uno de los principales fideicomisos de infraestructura y bienes raíces 
-listados en la Bolsa Mexicana de Valores, durante el periodo 2025–2026. 
-El estudio evalúa el rendimiento, volatilidad y riesgo financiero del 
-activo, aplicando modelos cuantitativos de administración de riesgos 
-y teoría de portafolios.
+**Área:** Administración de Riesgos  
+**Periodo:** Enero – Marzo 2026  
+**Herramientas:** Python · Excel · Matplotlib  
+**Datos:** BMV · Banxico · GBM
 
-## Herramientas utilizadas
-- Microsoft Excel (análisis financiero y modelos cuantitativos)
-- Análisis estadístico (rendimientos, volatilidad y distribuciones)
-- Modelos financieros:
-  - Rendimientos logarítmicos
-  - Volatilidad histórica
-  - Sharpe Ratio
-  - Value at Risk (VaR)
-- Teoría de portafolios de inversión
+---
 
-## Actividades realizadas
-- Recopilación y análisis del comportamiento histórico del 
-  precio de FUNO11 (2019–2026)
-- Cálculo de rendimientos logarítmicos del instrumento
-- Medición de volatilidad histórica del activo
-- Cálculo del Sharpe Ratio para evaluar rendimiento ajustado 
-  al riesgo
-- Aplicación del modelo Value at Risk (VaR) para cuantificar 
-  el riesgo financiero
-- Evaluación del instrumento dentro de un portafolio 
-  de inversión diversificado
-- Elaboración de conclusiones para la toma de decisiones 
-  de inversión
+## 🎯 Objetivo
 
-## Resultados obtenidos
-- Determinación del rendimiento y nivel de riesgo de FUNO11 
-  en el periodo analizado
-- Identificación de periodos de crecimiento, caída y 
-  volatilidad del activo
-- Medición cuantitativa del riesgo mediante VaR
-- Evaluación de la contribución de FUNO11 dentro de un 
-  portafolio diversificado
-- Generación de herramientas cuantitativas para la toma 
-  de decisiones de inversión inmobiliaria
+Analizar el comportamiento financiero del instrumento FUNO11 (Fibra Uno)
+durante el primer trimestre de 2026, aplicando métricas cuantitativas de
+riesgo y rendimiento para evaluar su viabilidad dentro de un portafolio
+de inversión.
 
-## Habilidades demostradas
-- Análisis cuantitativo de instrumentos financieros
-- Aplicación de modelos de administración de riesgos (VaR)
-- Cálculo e interpretación del Sharpe Ratio
-- Teoría de portafolios y diversificación de inversiones
-- Análisis estadístico aplicado a mercados financieros
-- Conocimiento del mercado de valores mexicano (BMV, FIBRAs)
-- Toma de decisiones basada en análisis financiero cuantitativo
+---
+
+## 📌 Hallazgos Clave
+
+| Métrica            | Resultado | Interpretación                          |
+|--------------------|-----------|------------------------------------------|
+| Volatilidad (σ)    | 1.8%      | Baja — activo defensivo                 |
+| Sharpe Ratio       | 0.62      | Rendimiento aceptable ajustado por riesgo|
+| VaR (95%)          | -2.9%     | Pérdida máxima diaria esperada           |
+| CVaR               | -4.5%     | Pérdida en escenarios extremos           |
+| Maximum Drawdown   | -10.5%    | Caída máxima del periodo — moderada      |
+
+> ✅ **Conclusión:** FUNO11 es un instrumento adecuado para estrategias
+> defensivas. Ofrece mayor rendimiento que CETES con un riesgo controlado
+> y comportamiento de reversión a la media.
+
+---
+
+## 📈 Visualizaciones
+
+| Gráfica | Vista previa |
+|---------|-------------|
+| Precio histórico | ![precio](visualizaciones/01_precio_historico.png) |
+| Rendimientos semanales | ![rendimientos](visualizaciones/02_rendimientos_semanales.png) |
+| Distribución de rendimientos + VaR | ![var](visualizaciones/03_distribucion_rendimientos.png) |
+| Simulación Monte Carlo | ![montecarlo](visualizaciones/04_simulacion_monte_carlo.png) |
+| Comparación vs CETES | ![cetes](visualizaciones/05_comparacion_cetes.png) |
+
+---
+
+## 🧮 Metodología Aplicada
+
+1. Obtención de precios históricos (BMV / Yahoo Finance)
+2. Cálculo de rendimientos logarítmicos
+3. Medición de volatilidad (desviación estándar)
+4. Sharpe Ratio vs tasa libre de riesgo (CETES)
+5. Value at Risk (VaR) y CVaR al 95%
+6. Maximum Drawdown
+7. Simulación Monte Carlo (múltiples escenarios)
+
+---
+
+## 📂 Contenido del Repositorio
+
+| Carpeta | Descripción |
+|---------|-------------|
+| `/reporte` | Documento académico completo en PDF |
+| `/datos` | Precios históricos de FUNO11 en CSV |
+| `/analisis` | Notebook de Python con todos los cálculos |
+| `/visualizaciones` | Gráficas exportadas del análisis |
+
+---
+
+## 🔗 Referencias
+
+- [Fibra Uno — BMV](https://www.bmv.com.mx)
+- [Banxico — Tasas CETES](https://www.banxico.org.mx)
+- Markowitz, H. (1952). Portfolio Selection.
+- Sharpe, W. F. (1966). Mutual Fund Performance.
+
+---
+
+© 2026 Nayelli Romero López · Ingeniería Financiera · UPT  
+*Portafolio académico — uso exclusivo como evidencia profesional.*
