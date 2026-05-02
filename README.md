@@ -35,20 +35,25 @@ financiero con herramientas tecnológicas y manejo de datos.
 ## Herramientas y tecnologías
 
 **Datos:**  
-Excel · Power BI · Python ·  SQL 
+Excel · Power BI · Python ·  SQL · Tableu
+
 **Finanzas:** 
 Análisis financiero · Razones financieras · VaR ·  TIR · Flujo de efectivo · Proyección financiera  
+
 **Desarrollo:**
 Angular · PL/SQL · Oracle Forms · HTML · JavaScript
+
 **Sistemas:**
-ERP · Office 365 · Gestión de servidores ·  Respaldos
-**Metodologías:***
+ERP · Office 365 · Gestión de servidores ·  Respaldos  ·  IBM SPSS  ·  Atlas Ti
+
+**Metodologías:**
 Scrum · Kanban · Documentación técnica 
+
 **Herramientas:**
 Teams · Slack · Notion ·  Google Workspace 
 
 ---
 
 ## Contacto
-📧 [tu correo aquí]  
-🔗 [tu LinkedIn aquí]
+📧 romeroloopeznayelli@gmail.com 
+🔗 linkedin.com/in/nayelliromero
