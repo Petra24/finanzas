@@ -1,5 +1,5 @@
 # Consultoría de Proyectos de Inversión
-**Año:** 2023  
+**Año:** 2024  
 **Materia:** Estancia I  
 **Institución:** Universidad Politécnica de Tulancingo
 
