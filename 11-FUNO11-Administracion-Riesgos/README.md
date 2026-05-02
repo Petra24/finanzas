@@ -1,4 +1,4 @@
-# 📊 FUNO11 — Análisis Financiero y Administración de Riesgos
+# FUNO11 — Análisis Financiero y Administración de Riesgos
 
 **Área:** Administración de Riesgos  
 **Periodo:** Enero – Marzo 2026  
@@ -7,7 +7,7 @@
 
 ---
 
-## 🎯 Objetivo
+## Objetivo
 
 Analizar el comportamiento financiero del instrumento FUNO11 (Fibra Uno)
 durante el primer trimestre de 2026, aplicando métricas cuantitativas de
@@ -16,7 +16,7 @@ de inversión.
 
 ---
 
-## 📌 Hallazgos Clave
+## Hallazgos Clave
 
 | Métrica            | Resultado | Interpretación                          |
 |--------------------|-----------|------------------------------------------|
@@ -26,13 +26,13 @@ de inversión.
 | CVaR               | -4.5%     | Pérdida en escenarios extremos           |
 | Maximum Drawdown   | -10.5%    | Caída máxima del periodo — moderada      |
 
-> ✅ **Conclusión:** FUNO11 es un instrumento adecuado para estrategias
+> **Conclusión:** FUNO11 es un instrumento adecuado para estrategias
 > defensivas. Ofrece mayor rendimiento que CETES con un riesgo controlado
 > y comportamiento de reversión a la media.
 
 ---
 
-## 📈 Visualizaciones
+## Visualizaciones
 
 | Gráfica | Vista previa |
 |---------|-------------|
@@ -44,7 +44,7 @@ de inversión.
 
 ---
 
-## 🧮 Metodología Aplicada
+## Metodología Aplicada
 
 1. Obtención de precios históricos (BMV / Yahoo Finance)
 2. Cálculo de rendimientos logarítmicos
@@ -56,7 +56,7 @@ de inversión.
 
 ---
 
-## 📂 Contenido del Repositorio
+## Contenido del Repositorio
 
 | Carpeta | Descripción |
 |---------|-------------|
@@ -67,7 +67,7 @@ de inversión.
 
 ---
 
-## 🔗 Referencias
+## Referencias
 
 - [Fibra Uno — BMV](https://www.bmv.com.mx)
 - [Banxico — Tasas CETES](https://www.banxico.org.mx)
