@@ -34,7 +34,8 @@ financiero con herramientas tecnológicas y manejo de datos.
 | 10 | [Análisis estratégico — Xcaret Park](./10-Analisis-estratégico-Xcaret-Park/) | Desarrollo sustentable y medio ambiente | Ene-Abr 2026 |
 | 11 | [FUNO11 — Administración de Riesgos](./11-FUNO11-Administracion-Riesgos/) | Administración de Riesgos | Ene-Abr 2026 |
 
-> 🚧 Repositorio en construcción — se irán agregando proyectos conforme avance el cuatrimestre.
+> 🚧 Desarrollo activo
+> Repositorio en construcción — se irán agregando proyectos conforme avance el cuatrimestre.
 
 ---
 
