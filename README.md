@@ -1,4 +1,4 @@
-# Portafolio Académico — Ingeniería Financiera
+# Portafolio de Ingeniería Financiera y Tecnología
 **Nayelli Romero López**  
 Ingeniería Financiera | 9.º Cuatrimestre  
 Universidad Politécnica de Tulancingo | 2023 - 2026  
@@ -7,14 +7,9 @@ Universidad Politécnica de Tulancingo | 2023 - 2026
 ---
 
 ## Sobre este repositorio
-Este repositorio reúne los proyectos académicos desarrollados a lo largo 
-de mi formación en Ingeniería Financiera, abarcando áreas como análisis 
-financiero, evaluación de proyectos, costos, mercadotecnia y finanzas 
-corporativas.
+Este repositorio reúne proyectos enfocados en análisis financiero, evaluación de negocios y aplicación de herramientas tecnológicas para la toma de decisiones basada en datos.
 
-Cuento además con más de 4 años de experiencia en Ingeniería en Sistemas 
-con especialidad en programación, lo que me permite combinar el análisis 
-financiero con herramientas tecnológicas y manejo de datos.
+Mi formación en Ingeniería en Sistemas con especialidad en programación complementa mi perfil financiero, permitiéndome integrar automatización, análisis de datos y soluciones tecnológicas en entornos empresariales y financieros.
 
 ---
 
@@ -42,7 +37,7 @@ financiero con herramientas tecnológicas y manejo de datos.
 ## Herramientas y tecnologías
 
 **Datos:**  
-Excel · Power BI · Python ·  SQL · Tableu
+Excel · Power BI · Python ·  SQL · Tableau
 
 **Finanzas:**  
 Análisis financiero · Razones financieras · VaR ·  TIR · Flujo de efectivo · Proyección financiera  
