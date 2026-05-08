@@ -17,7 +17,7 @@ Mi formación en Ingeniería en Sistemas con especialidad en programación compl
 
 | # | Proyecto | Área | Año |
 |---|----------|------|-----|
-| 11 | [FUNO11 — Administración de Riesgos](./11-FUNO11-Administracion-Riesgos/) | Administración de Riesgos | Ene-Abr 2026 |
+| 1 | [FUNO11 — Administración de Riesgos](./11-FUNO11-Administracion-Riesgos/) | Administración de Riesgos | Ene-Abr 2026 |
 
 ## Proyectos  
 | # | Proyecto | Área | Año |
