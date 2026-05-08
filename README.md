@@ -13,8 +13,13 @@ Mi formación en Ingeniería en Sistemas con especialidad en programación compl
 
 ---
 
-## Proyectos
+## Proyectos Principales 
 
+| # | Proyecto | Área | Año |
+|---|----------|------|-----|
+| 11 | [FUNO11 — Administración de Riesgos](./11-FUNO11-Administracion-Riesgos/) | Administración de Riesgos | Ene-Abr 2026 |
+
+## Proyectos  
 | # | Proyecto | Área | Año |
 |---|----------|------|-----|
 | 01 | [Consultoría de Proyectos de Inversión](./01-Consultoria-Proyectos-Inversion/) | Estancia I | Sep-Dic 2024 |
@@ -27,7 +32,6 @@ Mi formación en Ingeniería en Sistemas con especialidad en programación compl
 | 08 | [EcoVida — Plan Integral de Negocios](./08-EcoVida-Plan-de-Negocios/) | Plan Integral de Negocios | Ene-Abr 2026 |
 | 09 | [Kit biodegradable — Estudio de Mercado](./09-Kit-biodegradable-Estudio-Mercado/) | Estudio de mercados | Ene-Abr 2026 |
 | 10 | [Análisis estratégico — Xcaret Park](./10-Analisis-estratégico-Xcaret-Park/) | Desarrollo sustentable y medio ambiente | Ene-Abr 2026 |
-| 11 | [FUNO11 — Administración de Riesgos](./11-FUNO11-Administracion-Riesgos/) | Administración de Riesgos | Ene-Abr 2026 |
 
 > 🚧 Desarrollo activo
 > 
