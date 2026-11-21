@@ -17,7 +17,7 @@ Mi formación en Ingeniería en Sistemas con especialidad en programación compl
 
 | # | Proyecto | Área | Año |
 |---|----------|------|-----|
-| 1 | [Diagnostico y Automatización de procesos] (./11-Automatizacion/) | Estadía | Ago - Dic 2026 |
+| 1 | [Diagnostico y Automatización de procesos](./12-Automatizacion/) | Estadía | Ago - Dic 2026 |
 
 ## Proyectos  
 | # | Proyecto | Área | Año |
